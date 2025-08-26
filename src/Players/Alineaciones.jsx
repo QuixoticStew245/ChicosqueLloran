@@ -2,16 +2,16 @@ import { Typography } from "antd";
 import campoImg from "../assets/Campofutebol.svg.png";
 import { DatosFormacion } from "./components/DatosFormacion";
 import { useNavigate } from "react-router-dom";
-import Yamil from "../assets/Chibi/yamilchibi.png";
-import Derek from "../assets/Chibi/derekchibi.png";
-import Angel from "../assets/Chibi/angelchibi.png";
-import Mau from "../assets/Chibi/mauchibi.png";
-import Luis from "../assets/Chibi/luischibi.png";
+import Yamil from "../assets/Chibi/yamilChibi.png";
+import Derek from "../assets/Chibi/derekChibi.png";
+import Angel from "../assets/Chibi/angelChibi.png";
+import Mau from "../assets/Chibi/mauChibi.png";
+import Luis from "../assets/Chibi/luisChibi.png";
 import Zidane from "../assets/Chibi/zidane.png";
-import Kevin from "../assets/Chibi/kevinchibi.png";
-import Oscar from "../assets/Chibi/Jarochochibi.png";
-import Josdi from "../assets/Chibi/josdichibi.png";
-import Santy from "../assets/Chibi/santychibi.png";
+import Kevin from "../assets/Chibi/kevinChibi.png";
+import Oscar from "../assets/Chibi/JarochoChibi.png";
+import Josdi from "../assets/Chibi/josdiChibi.png";
+import Santy from "../assets/Chibi/santyChibi.png";
 
 const jugadores = [
     { nombre: "Angel(Golem)", numero: 1, x: 50, y: 87, link: "/angel", img: Angel },
