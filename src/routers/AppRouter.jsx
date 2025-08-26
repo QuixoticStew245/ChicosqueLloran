@@ -17,6 +17,7 @@ import { Luis } from "../pages/jugadorespages/Luis";
 import { Mau } from "../pages/jugadorespages/Mau";
 import { Santy } from "../pages/jugadorespages/Santy";
 import { ScrollTopPages } from "../Components/ScrollTopPages";
+import { Yael } from "../pages/jugadorespages/Yael";
 
 export const AppRouter = ()=>{
     return(
@@ -30,6 +31,7 @@ export const AppRouter = ()=>{
                 <Route path="/angel" element={<AngelPage />} />
                 <Route path="/esteban" element={<EstebanPage />} />
                 <Route path="/kevin" element={<Kevin />} />
+                <Route path="/yael" element= {<Yael/>}/>
                 <Route path="/josdi" element={<Josdi />} />
                 <Route path="/oscar" element={<Oscar />} />
                 <Route path="/derek" element={<Derek />} />
