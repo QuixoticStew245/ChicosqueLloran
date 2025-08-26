@@ -1,5 +1,5 @@
 import { Typography } from "antd";
-import esteban from "../assets/Jugadores/esteban.png";
+import esteban from "../assets/Jugadores/Esteban.png";
 import Derek from "../assets/Jugadores/Derek.png";
 import Kevin from "../assets/Jugadores/Kevin.png";
 import Yamil from "../assets/Jugadores/Yamil.png";
@@ -16,7 +16,7 @@ import { useRef } from "react";
 
 const porteros = [
   { nombre: "Angel(Golem)", posicion: "PO", numero: "1", media: "88", img: Angel, estrellas:"★★★★", link: "/angel" },
-  { nombre: "Esteban(Lechugita)", posicion: "PO", numero: "13", media: "86", img: esteban, estrellas:"★★★★", link: "/esteban" },
+  { nombre: "Esteban", posicion: "PO", numero: "13", media: "86", img: esteban, estrellas:"★★★★", link: "/esteban" },
 ];
 
 const defensas = [
