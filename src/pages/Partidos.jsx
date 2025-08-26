@@ -27,7 +27,7 @@ export const Partidos = () => {
         <>
             <Layout>
                 <Sider
-                    className="hidden md:block sider"
+                    className="hidden min-[900px]:block sider"
                     trigger={null}
                     collapsible
                     collapsed={collapsed}   
