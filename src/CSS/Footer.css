@@ -1,0 +1,137 @@
+
+.footer {
+    background: #630a20 !important;
+    color: #fff !important;
+    border-radius: 200px 0 0 0;
+    opacity: 0;
+    animation: slideFadeInUp 0.8s ease-out forwards;
+}
+
+@keyframes slideFadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(60px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.container-footer {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 2rem;
+    padding: 20px 0;
+    width: 100%;
+    padding-left: 100px;
+}
+
+.contain-footer {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    min-width: 0;
+}
+.title-footer{
+    border-bottom: 2px solid #fff;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+.title-footer h1, .title-footer h2 {
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+.title-footer h1 {
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+}
+
+.title-footer h2 {
+    font-size: 1.1rem;
+    letter-spacing: 0.5px;
+}
+
+.links-footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.links-footer a {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+
+.contain-footer a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+.contain-footer a:hover {
+    color: #f3d7e1;
+}
+
+.contact-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+.contact-links a{
+    font-size: 2.4rem;
+    transition: color 0.3s;
+}
+.contact-links a:hover {
+    color: #f3d7e1;
+}
+
+.text-center {
+    text-align: center;
+    font-size: 0.95rem;
+    opacity: 0.8;
+}
+
+@media (max-width: 1200px) {
+    .container-footer {
+        grid-template-columns: 1fr;
+        padding-left: 20px;
+    }
+    .footer {
+        border-radius: 32px 0 0 0;
+        padding-top: 16px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container-footer {
+        grid-template-columns: 1fr;
+        padding-left: 20px;
+    }
+    .footer {
+        border-radius: 32px 0 0 0;
+        padding-top: 16px;
+    }
+
+    .contain-footer{
+        text-align: center;
+    }
+
+    .links-footer{
+        text-align: center;
+    }
+}
+
+@media (max-width: 600px) {
+    .container-footer {
+        grid-template-columns: 1fr;
+        gap: 1.2rem;
+        padding: 10px 4px;
+    }
+    .footer {
+        border-radius: 32px 0 0 0;
+        padding-top: 12px;
+        padding-bottom: 50px;
+    }
+}

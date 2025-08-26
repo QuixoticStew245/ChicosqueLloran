@@ -1,0 +1,416 @@
+{
+  "2022": [
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "15/08/2022",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo X",
+        "logo": "EquipoX"
+      },
+      "marcadorLocal": 7,
+      "marcadorVisitante": 2,
+      "goleadoresLocal": ["Luis", "Yamil", "SantyRCH", "Derek", "Luis", "Yamil", "SantyRCH"],
+      "goleadoresVisitante": ["Carlos", "Pedro"]
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "22/08/2022",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo Y",
+        "logo": "EquipoY"
+      },
+      "marcadorLocal": 5,
+      "marcadorVisitante": 0,
+      "goleadoresLocal": ["Oscar(Jarocho)", "Mau", "Luis", "Luis", "Yamil"],
+      "goleadoresVisitante": ["Juan"]
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "29/08/2022",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo Z",
+        "logo": "EquipoZ"
+      },
+      "marcadorLocal": 2,
+      "marcadorVisitante": 4,
+      "goleadoresLocal": ["Luis", "Kevin"],
+      "goleadoresVisitante": ["Pedro", "Carlos", "Juan", "Pedro"]
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "05/09/2022",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo W",
+        "logo": "EquipoW"
+      },
+      "marcadorLocal": 1,
+      "marcadorVisitante": 3,
+      "goleadoresLocal": ["Mau"],
+      "goleadoresVisitante": ["Carlos", "Pedro", "Juan"]
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "12/09/2022",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo V",
+        "logo": "EquipoV"
+      },
+      "marcadorLocal": 6,
+      "marcadorVisitante": 2,
+      "goleadoresLocal": ["Oscar(Jarocho)", "Kevin", "Mau", "Luis", "Luis", "Yamil"],
+      "goleadoresVisitante": ["Carlos", "Pedro"]
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "19/09/2022",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo U",
+        "logo": "EquipoU"
+      },
+      "marcadorLocal": 2,
+      "marcadorVisitante": 5,
+      "goleadoresLocal": ["Luis", "Kevin"],
+      "goleadoresVisitante": ["Carlos", "Carlos", "Pedro", "Juan", "Pedro"]
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "26/09/2022",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo T",
+        "logo": "EquipoT"
+      },
+      "marcadorLocal": 5,
+      "marcadorVisitante": 0,
+      "goleadoresLocal": ["Oscar(Jarocho)", "Mau", "Luis", "Luis", "Yamil"],
+      "goleadoresVisitante": []
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "03/10/2022",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo S",
+        "logo": "EquipoS"
+      },
+      "marcadorLocal": 6,
+      "marcadorVisitante": 2,
+      "goleadoresLocal": ["Kevin", "Oscar(Jarocho)", "Mau", "Luis", "Luis", "Yamil"],
+      "goleadoresVisitante": ["Pedro", "Carlos"]
+    }
+  ],
+  "2023": [
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "14/08/2023",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo A",
+        "logo": "EquipoA"
+      },
+      "marcadorLocal": 9,
+      "marcadorVisitante": 1,
+      "goleadoresLocal": ["Derek", "Derek", "Oscar(Jarocho)", "Kevin", "Luis", "Luis", "Luis", "SantyRCH", "SantyRCH"],
+      "goleadoresVisitante": ["Juan"]
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "21/08/2023",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo B",
+        "logo": "EquipoB"
+      },
+      "marcadorLocal": 9,
+      "marcadorVisitante": 2,
+      "goleadoresLocal": ["Derek", "Derek", "Mau", "Luis", "Luis", "Luis", "Yamil", "SantyRCH", "SantyRCH"],
+      "goleadoresVisitante": ["Pedro", "Carlos"]
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "28/08/2023",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo C",
+        "logo": "EquipoC"
+      },
+      "marcadorLocal": 2,
+      "marcadorVisitante": 3,
+      "goleadoresLocal": ["Luis", "Derek"],
+      "goleadoresVisitante": ["Carlos", "Pedro", "Juan"]
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "04/09/2023",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo D",
+        "logo": "EquipoD"
+      },
+      "marcadorLocal": 10,
+      "marcadorVisitante": 3,
+      "goleadoresLocal": ["Derek", "Derek", "Kevin", "Luis", "Luis", "Luis", "Yamil", "Mau", "SantyRCH", "SantyRCH"],
+      "goleadoresVisitante": ["Pedro", "Juan", "Carlos"]
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "11/09/2023",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo E",
+        "logo": "EquipoE"
+      },
+      "marcadorLocal": 7,
+      "marcadorVisitante": 1,
+      "goleadoresLocal": ["Derek", "Derek", "Luis", "Luis", "Luis", "SantyRCH", "SantyRCH"],
+      "goleadoresVisitante": ["Carlos"]
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "18/09/2023",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo F",
+        "logo": "EquipoF"
+      },
+      "marcadorLocal": 1,
+      "marcadorVisitante": 4,
+      "goleadoresLocal": ["Luis"],
+      "goleadoresVisitante": ["Pedro", "Carlos", "Carlos", "Juan"]
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "25/09/2023",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo G",
+        "logo": "EquipoG"
+      },
+      "marcadorLocal": 8,
+      "marcadorVisitante": 0,
+      "goleadoresLocal": ["Derek", "Derek", "Oscar(Jarocho)", "Luis", "Luis", "Luis", "SantyRCH", "SantyRCH"],
+      "goleadoresVisitante": []
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "02/10/2023",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo H",
+        "logo": "EquipoH"
+      },
+      "marcadorLocal": 3,
+      "marcadorVisitante": 3,
+      "goleadoresLocal": ["Luis", "Derek", "SantyRCH"],
+      "goleadoresVisitante": ["Carlos", "Pedro", "Juan"]
+    }
+  ],
+  "2024": [
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "12/08/2024",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo AA",
+        "logo": "EquipoAA"
+      },
+      "marcadorLocal": 8,
+      "marcadorVisitante": 2,
+      "goleadoresLocal": ["Luis", "Luis", "Luis", "Yamil", "Yamil", "Oscar(Jarocho)", "Kevin", "Mau"],
+      "goleadoresVisitante": ["Juan", "Pedro"]
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "19/08/2024",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo BB",
+        "logo": "EquipoBB"
+      },
+      "marcadorLocal": 9,
+      "marcadorVisitante": 1,
+      "goleadoresLocal": ["Luis", "Luis", "Luis", "Yamil", "Yamil", "Oscar(Jarocho)", "Kevin", "Mau", "Kevin"],
+      "goleadoresVisitante": ["Carlos"]
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "26/08/2024",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo CC",
+        "logo": "EquipoCC"
+      },
+      "marcadorLocal": 3,
+      "marcadorVisitante": 5,
+      "goleadoresLocal": ["Luis", "Oscar(Jarocho)", "Kevin"],
+      "goleadoresVisitante": ["Pedro", "Juan", "Carlos", "Carlos", "Pedro"]
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "02/09/2024",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo DD",
+        "logo": "EquipoDD"
+      },
+      "marcadorLocal": 8,
+      "marcadorVisitante": 0,
+      "goleadoresLocal": ["Luis", "Luis", "Luis", "Yamil", "Yamil", "Oscar(Jarocho)", "Kevin", "Mau"],
+      "goleadoresVisitante": []
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "09/09/2024",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo EE",
+        "logo": "EquipoEE"
+      },
+      "marcadorLocal": 10,
+      "marcadorVisitante": 2,
+      "goleadoresLocal": ["Luis", "Luis", "Luis", "Yamil", "Yamil", "Oscar(Jarocho)", "Kevin", "Mau", "Oscar(Jarocho)", "Kevin"],
+      "goleadoresVisitante": ["Pedro", "Carlos"]
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "16/09/2024",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo FF",
+        "logo": "EquipoFF"
+      },
+      "marcadorLocal": 10,
+      "marcadorVisitante": 1,
+      "goleadoresLocal": ["Luis", "Luis", "Luis", "Yamil", "Yamil", "Oscar(Jarocho)", "Kevin", "Mau", "Kevin", "Mau"],
+      "goleadoresVisitante": ["Juan"]
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "23/09/2024",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo GG",
+        "logo": "EquipoGG"
+      },
+      "marcadorLocal": 2,
+      "marcadorVisitante": 4,
+      "goleadoresLocal": ["Luis", "Yamil"],
+      "goleadoresVisitante": ["Carlos", "Pedro", "Pedro", "Juan"]
+    },
+    {
+      "competicion": "Liga",
+      "finalizado": true,
+      "fecha": "30/09/2024",
+      "equipoLocal": {
+        "nombre": "CLLFC",
+        "logo": "CLLFC"
+      },
+      "equipoVisitante": {
+        "nombre": "Equipo HH",
+        "logo": "EquipoHH"
+      },
+      "marcadorLocal": 4,
+      "marcadorVisitante": 4,
+      "goleadoresLocal": ["Luis", "Luis", "Kevin", "Yamil"],
+      "goleadoresVisitante": ["Carlos", "Pedro", "Juan", "Pedro"]
+    }
+  ]
+}

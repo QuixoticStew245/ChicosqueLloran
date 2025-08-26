@@ -1,0 +1,33 @@
+.btn-seguir{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: 100 !important;
+    padding: 5px 10px;
+    color: #707070;
+}
+.btn-seguir:hover{
+    color: #800020;
+    transition: all 0.3s ease-in-out;
+}
+
+.confirm-btn {
+    background-color: #800020 !important;
+    color: #fff !important;
+}
+
+.btn-perfil {
+    background-color: #fff !important;
+    color: #800020 !important;
+    border: 1px solid #800020 !important;
+    padding: 5px 10px;
+    font-size: 14px;
+    font-weight: 300 !important;
+    border-radius: 20px;
+}
+.btn-perfil:hover {
+    background-color: #800020 !important;
+    color: #fff !important;
+    transition: all 0.3s ease-in-out;
+}

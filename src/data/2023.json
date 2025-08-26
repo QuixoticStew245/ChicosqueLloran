@@ -1,0 +1,101 @@
+[
+  {
+    "key": "1",
+    "pos": 1,
+    "equipo": "CLLFC",
+    "pj": 8,
+    "g": 5,
+    "e": 1,
+    "p": 2,
+    "dg": 22,
+    "pts": 16
+  },
+  {
+    "key": "2",
+    "pos": 2,
+    "equipo": "EquipoA",
+    "pj": 8,
+    "g": 4,
+    "e": 2,
+    "p": 2,
+    "dg": 10,
+    "pts": 14
+  },
+  {
+    "key": "3",
+    "pos": 3,
+    "equipo": "EquipoB",
+    "pj": 8,
+    "g": 4,
+    "e": 1,
+    "p": 3,
+    "dg": 8,
+    "pts": 13
+  },
+  {
+    "key": "4",
+    "pos": 4,
+    "equipo": "EquipoC",
+    "pj": 8,
+    "g": 3,
+    "e": 3,
+    "p": 2,
+    "dg": 5,
+    "pts": 12
+  },
+  {
+    "key": "5",
+    "pos": 5,
+    "equipo": "EquipoD",
+    "pj": 8,
+    "g": 3,
+    "e": 2,
+    "p": 3,
+    "dg": 0,
+    "pts": 11
+  },
+  {
+    "key": "6",
+    "pos": 6,
+    "equipo": "EquipoE",
+    "pj": 8,
+    "g": 2,
+    "e": 3,
+    "p": 3,
+    "dg": -2,
+    "pts": 9
+  },
+  {
+    "key": "7",
+    "pos": 7,
+    "equipo": "EquipoF",
+    "pj": 8,
+    "g": 2,
+    "e": 2,
+    "p": 4,
+    "dg": -5,
+    "pts": 8
+  },
+  {
+    "key": "8",
+    "pos": 8,
+    "equipo": "EquipoG",
+    "pj": 8,
+    "g": 1,
+    "e": 3,
+    "p": 4,
+    "dg": -10,
+    "pts": 6
+  },
+  {
+    "key": "9",
+    "pos": 9,
+    "equipo": "EquipoH",
+    "pj": 8,
+    "g": 0,
+    "e": 2,
+    "p": 6,
+    "dg": -20,
+    "pts": 2
+  }
+]

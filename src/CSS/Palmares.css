@@ -1,0 +1,8 @@
+.barra-animada .ant-progress-bg {
+  animation: barraGrow 1.2s cubic-bezier(0.4,0.2,0.2,1);
+}
+
+@keyframes barraGrow {
+  from { width: 0; }
+  to { width: 100%; }
+}

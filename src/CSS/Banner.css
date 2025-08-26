@@ -1,0 +1,112 @@
+.banner{
+    background:
+        linear-gradient(to right, rgba(99,10,32,0.3), rgba(165,42,42,0.3)),
+        url('../assets/campo.webp') center center/cover no-repeat;
+    height: 45vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    animation: bannerFadeIn 1.2s ease;
+    border-radius: 20px;
+    padding-left: 5%;
+}
+
+@keyframes bannerFadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.banner h1, .banner p, .banner button {
+  opacity: 0;
+  animation: elementFadeIn 1.2s ease forwards;
+}
+.banner h1 { animation-delay: 0.2s; }
+.banner p { animation-delay: 0.5s; }
+.banner button { animation-delay: 0.8s; }
+
+@keyframes elementFadeIn {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.banner h1{
+    color: #fff;
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+.banner p{
+    color: #fff;
+    font-size: 1rem;
+    font-style: italic;
+    max-width: 900px;
+    margin: 5px 0;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+.banner button{
+    background-color: #fff;
+    color: #630a20;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    max-width: 250px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 1200px) {
+    .banner h1 {
+        font-size: 2.1rem;
+    }
+    .banner p {
+        font-size: 0.9rem;
+    }
+    .banner button {
+        font-size: 0.9rem;
+        padding: 8px 16px;
+    }
+}
+
+@media (max-width: 768px) {
+    .banner {
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border-radius: 0;
+        height: 40vh;
+    }
+    .banner h1 {
+        font-size: 2rem;
+        text-align: center;
+    }
+    .banner p {
+        font-size: 1rem;
+        text-align: center;
+    }
+    .banner button {
+        font-size: 0.7rem;
+        padding: 6px 14px;
+        width: 100%;
+    }
+}
+@media (max-width: 480px) {
+    .banner {
+        height: 35vh;
+    }
+    .banner h1 {
+        text-align: center;
+        font-size: 1.2rem;
+    }
+    .banner p {
+        font-size: 0.7rem;
+    }
+    .banner button {
+        font-size: .7rem;
+        padding: 4px 10px;
+    }
+}

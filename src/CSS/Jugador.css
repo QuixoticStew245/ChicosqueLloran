@@ -1,0 +1,108 @@
+.jugador-container {
+    height: auto;
+    display: flex;
+    position: relative;
+    background-image: linear-gradient(rgba(92, 90, 90, 0.3), rgba(0, 0, 0, 0.3)), url('../assets/FondoJugad.png');
+    background-size: cover;
+    background-position: center 40%;
+    background-repeat: no-repeat;
+    animation: fadeIn 0.5s ease-in-out;
+    flex-direction: column;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0.5; }
+    to { opacity: 1; }
+}
+
+@media (max-width: 1025px) {
+    .jugador-container {
+        background-position: right center;
+    }
+}
+
+.jugador-aside {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    background-color: rgba(99, 10, 37, 0.45);
+    border: solid 2px rgba(255, 255, 255, 0.1);
+    border-radius: 20px 0 0 20px;
+}
+
+@media (max-width: 768px) {
+    .jugador-aside {
+        position: static;
+        transform: none;
+        flex-direction: row;
+        border-radius: 0;
+        justify-content: space-around;
+        margin-top: 10px;
+        width: 100%;
+    }
+}
+
+.jugador-avatar {
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    border-radius: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.jugador-avatar:hover {
+    transform: scale(1.05);
+}
+
+.texto-vertical {
+    writing-mode: vertical-rl; 
+    text-orientation: mixed;
+    font-size: 7.2rem;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.4); 
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    letter-spacing: 5px;
+    cursor: default;
+    z-index: 0;
+}
+@media (max-width: 1025px) {
+    .texto-vertical {
+        display: none;
+    }
+}
+
+.StatsConetent {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    max-width: 800px;
+    background-color: rgba(99, 10, 37, 0.45);
+    border: solid 2px rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    color: #F5F5DC;
+    margin-bottom: 10px;
+    backdrop-filter: blur(6px);
+    transition: background-color 0.5s, border-color 0.5s;
+}
+
+.StatsConetent:hover{
+    background-color: rgba(99, 10, 37, 0.75);
+    border: solid 2px rgba(255, 255, 255, 0.5);
+}
+
+@media (max-width: 1281px) {
+    .StatsConetent {
+        flex-direction: column;
+        width: 100%;
+        max-width: none;
+        padding: 8px;
+    }
+}

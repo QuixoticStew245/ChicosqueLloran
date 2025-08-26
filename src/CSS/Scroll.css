@@ -1,0 +1,17 @@
+/* en tu index.css o globals.css */
+.scrollbar-custom::-webkit-scrollbar {
+  height: 8px; /* tamaño del scroll horizontal */
+}
+
+.scrollbar-custom::-webkit-scrollbar-track {
+  background: transparent; /* fondo */
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.5); /* color barra */
+  border-radius: 4px;
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.8);
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "nombre": "Copa Rabaul 2022",
+    "semifinales": [
+      {
+        "equipo1": { "nombre": "CLLFC", "logo": "CCLFC", "logoBlanco": "CCLFCBlanco", "goles": 1 },
+        "equipo2": { "nombre": "Equipo 2", "logo": "Equipo2", "logoBlanco": "Equipo2Blanco", "goles": 0 }
+      },
+      {
+        "equipo1": { "nombre": "Equipo 3", "logo": "Equipo2", "logoBlanco": "Equipo2Blanco", "goles": 2 },
+        "equipo2": { "nombre": "Equipo 4", "logo": "Equipo2", "logoBlanco": "Equipo2Blanco", "goles": 1 }
+      }
+    ],
+    "final": {
+      "equipo1": { "nombre": "CLLFC", "logo": "CCLFC", "logoBlanco": "CCLFCBlanco", "goles": 3 },
+      "equipo2": { "nombre": "Equipo 3", "logo": "Equipo2", "logoBlanco": "Equipo2Blanco", "goles": 2 }
+    }
+  },
+  {
+    "nombre": "Copa Rabaul 2023",
+    "semifinales": [
+      {
+        "equipo1": { "nombre": "Equipo X", "logo": "Equipo2", "logoBlanco": "Equipo2Blanco", "goles": 0 },
+        "equipo2": { "nombre": "CLLFC", "logo": "CCLFC", "logoBlanco": "CCLFCBlanco", "goles": 3 }
+      },
+      {
+        "equipo1": { "nombre": "Equipo Y", "logo": "Equipo2", "logoBlanco": "Equipo2Blanco", "goles": 1 },
+        "equipo2": { "nombre": "Equipo Z", "logo": "Equipo2", "logoBlanco": "Equipo2Blanco", "goles": 2 }
+      }
+    ],
+    "final": {
+      "equipo1": { "nombre": "CLLFC", "logo": "CCLFC", "logoBlanco": "CCLFCBlanco", "goles": 4 },
+      "equipo2": { "nombre": "Equipo Z", "logo": "Equipo2", "logoBlanco": "Equipo2Blanco", "goles": 1 }
+    }
+  },
+  {
+    "nombre": "Copa Rabaul 2024",
+    "semifinales": [
+      {
+        "equipo1": { "nombre": "CLLFC", "logo": "CCLFC", "logoBlanco": "CCLFCBlanco", "goles": 5 },
+        "equipo2": { "nombre": "Equipo Alfa", "logo": "Equipo2", "logoBlanco": "Equipo2Blanco", "goles": 2 }
+      },
+      {
+        "equipo1": { "nombre": "Equipo Beta", "logo": "Equipo2", "logoBlanco": "Equipo2Blanco", "goles": 1 },
+        "equipo2": { "nombre": "Equipo Gamma", "logo": "Equipo2", "logoBlanco": "Equipo2Blanco", "goles": 0 }
+      }
+    ],
+    "final": {
+      "equipo1": { "nombre": "CLLFC", "logo": "CCLFC", "logoBlanco": "CCLFCBlanco", "goles": 2 },
+      "equipo2": { "nombre": "Equipo Beta", "logo": "Equipo2", "logoBlanco": "Equipo2Blanco", "goles": 0 }
+    }
+  },
+  {
+    "nombre": "Copa Rabaul 2025",
+    "semifinales": [
+      {
+        "equipo1": { "nombre": "Equipo León", "logo": "Equipo2", "logoBlanco": "Equipo2Blanco", "goles": 1 },
+        "equipo2": { "nombre": "CLLFC", "logo": "CCLFC", "logoBlanco": "CCLFCBlanco", "goles": 3 }
+      },
+      {
+        "equipo1": { "nombre": "Equipo Tigre", "logo": "Equipo2", "logoBlanco": "Equipo2Blanco", "goles": 2 },
+        "equipo2": { "nombre": "Equipo Jaguar", "logo": "Equipo2", "logoBlanco": "Equipo2Blanco", "goles": 1 }
+      }
+    ],
+    "final": {
+      "equipo1": { "nombre": "CLLFC", "logo": "CCLFC", "logoBlanco": "CCLFCBlanco", "goles": 3 },
+      "equipo2": { "nombre": "Equipo Tigre", "logo": "Equipo2", "logoBlanco": "Equipo2Blanco", "goles": 1 }
+    }
+  }
+]
