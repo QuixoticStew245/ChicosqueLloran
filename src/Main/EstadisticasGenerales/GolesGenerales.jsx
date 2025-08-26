@@ -12,7 +12,7 @@ export const GolesGenerales = ()=>{
     return(
         <ResponsiveContainer width="100%" height={300}>
             <BarChart data={dataGoleadores} layout="vertical" margin={{ top: 20, right: 3, left: 8, bottom: 2 }}>
-            <CartesianGrid strokeDasharray="3 3" />
+            <CartesianGrid stro-keDasharray="3 3" />
             <XAxis type="number" />
             <YAxis dataKey="nombre" type="category" />
             <Tooltip />
