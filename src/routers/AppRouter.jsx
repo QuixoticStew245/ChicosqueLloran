@@ -23,7 +23,7 @@ export const AppRouter = ()=>{
         <>
             <ScrollTopPages/>
             <Routes>
-                <Route path="/" element={<Home/>} />
+                <Route path="/ChicosqueLloran" element={<Home/>} />
                 <Route path="/partidos" element={<Partidos />} />
                 <Route path="/videos" element={<Videos />} />
                 <Route path="jugadores" element={<Jugadores />} />
