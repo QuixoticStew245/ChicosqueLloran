@@ -1,6 +1,6 @@
 import { Typography, notification } from "antd";
 import logo from "../../assets/Logo.png";
-import esteban from "../../assets/Jugadores/esteban.png";
+import esteban from "../../assets/Jugadores/Esteban.png";
 import Silvia from "../../assets/Chibi/silviachibi.png";
 import { useNavigate } from "react-router-dom";
 
