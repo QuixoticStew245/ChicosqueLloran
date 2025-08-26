@@ -1,6 +1,6 @@
 import { FaHandPaper, FaStar } from "react-icons/fa";
-import { GoleadoresLiga } from "./components-aside/goleadoresLiga";
-import { AsistenciasLiga } from "./components-aside/AsistenciasLiga";
+import { GoleadoresLiga } from "./components-aside/GoleadoresLiga.jsx";
+import { AsistenciasLiga } from "./components-aside/AsistenciasLiga.jsx";
 import { Typography } from "antd";
 
 
