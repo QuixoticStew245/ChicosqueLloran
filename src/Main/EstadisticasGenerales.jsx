@@ -1,6 +1,6 @@
 import { FaHandPaper, FaStar } from "react-icons/fa";
 import { GeneralesPartidos } from "./EstadisticasGenerales/GeneralesPartidos";
-import { GolesGenerales } from "./EstadisticasGenerales/GolesGenerales";
+import { GolesGenerales } from "./EstadisticasGenerales/GolesGEnerales";
 import { GiRank1, GiRunningShoe } from "react-icons/gi";
 
 export const EstadisticasGenerales = ()=>{
