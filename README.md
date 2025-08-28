@@ -4,6 +4,14 @@ Proyecto web hecho con **React.js + Vite**, utilizando **Ant Design (ANTD)** par
 
 ---
 
+## 📛 Badges
+[![React](https://img.shields.io/badge/React-18.2-blue?logo=react)]()
+[![Vite](https://img.shields.io/badge/Vite-5.0-646CFF?logo=vite)]()
+[![Ant Design](https://img.shields.io/badge/Ant%20Design-5.0-1890ff?logo=antdesign)]()
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38bdf8?logo=tailwindcss)]()
+
+---
+
 ## 🚀 Tecnologías usadas
 - ⚛️ [React.js](https://reactjs.org/) – Librería para construir interfaces de usuario.  
 - ⚡ [Vite](https://vitejs.dev/) – Herramienta de bundling y desarrollo rápido.  
@@ -17,3 +25,4 @@ Clona este repositorio:
 ```bash
 git clone https://github.com/QuixoticStew245/ChicosqueLloran.git
 cd ChicosqueLloran
+npm install
