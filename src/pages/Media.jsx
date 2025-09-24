@@ -10,11 +10,12 @@ import "../App.css"
 import "../index.css"
 import "../CSS/Footer.css";
 import { FooterContain } from "../Components/FooterContain";
+import { MediaMainContent } from "../Media/MediaMainContent";
 
-export const Videos = ()=>{
+export const Media = ()=>{
     const[collapsed,Setcollapsed] = useState(false);
 
-    return(
+    return( 
        <>
             <Layout>
                 <Sider
@@ -31,7 +32,7 @@ export const Videos = ()=>{
                         <CustomHeader/>
                     </Header>
                     <Content className="content">
-                        <span>Videos Content</span>   
+                        <MediaMainContent />   
                     </Content>
                     <Footer className="footer">
                         <FooterContain />

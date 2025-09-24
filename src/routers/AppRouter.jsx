@@ -1,7 +1,7 @@
 import { Route, Routes,  } from "react-router-dom";
 import { Home } from "../pages/Home";
 import { Partidos } from "../pages/Partidos";
-import { Videos } from "../pages/Videos";
+import { Media } from "../pages/Media"
 import { Jugadores } from "../pages/Jugadores";
 import { Estadisticas } from "../pages/Estadisticas";
 import { SobreNosotros } from "../pages/SobreNosotros";
@@ -26,7 +26,7 @@ export const AppRouter = ()=>{
             <Routes>
                 <Route path="/" element={<Home/>} />
                 <Route path="/partidos" element={<Partidos />} />
-                <Route path="/videos" element={<Videos />} />
+                <Route path="/media" element={<Media/>} />
                 <Route path="jugadores" element={<Jugadores />} />
                 <Route path="/angel" element={<AngelPage />} />
                 <Route path="/esteban" element={<EstebanPage />} />

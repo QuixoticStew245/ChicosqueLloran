@@ -11,7 +11,7 @@ export const Sidebar = ()=>{
     const routeToKey = {
         '/': '1',
         '/partidos': '2',
-        '/videos':'3',
+        '/media':'3',
         '/jugadores':'4',
         '/stats':'5',
         '/sobrenosotros':'6',
@@ -39,7 +39,7 @@ export const Sidebar = ()=>{
                 {
                     key :'3',
                     icon : <PlaySquareOutlined />,
-                    label: <Link to="/videos">Videos</Link>,
+                    label: <Link to="/media">Multimedia</Link>,
                 },
                 {
                     key :'4',
