@@ -48,15 +48,15 @@ export const UploadMedia = ({ onAdd }) => {
                 value={type}
                 onChange={setType}
                 options={[
-                { value: "Fotos", label: "Foto" },
-                { value: "Videos", label: "Video" },
+                    { value: "Fotos", label: "Foto" },
+                    { value: "Videos", label: "Video" },
                 ]}
                 className="!mb-2 w-full"
             />
             <Upload beforeUpload={handleFileSelect} maxCount={1}>
                 <Button icon={<UploadOutlined />}>Seleccionar archivo</Button>
             </Upload>
-            <Button type="primary" className="!mt-2" onClick={handleSubmit}>
+            <Button className="!bg-[#800020] !text-white !border-[#800020] !mt-2" onClick={handleSubmit}>
                 Subir
             </Button>
         </div>

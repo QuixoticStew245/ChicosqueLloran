@@ -28,8 +28,8 @@ export const MediaMainContent = () => {
                     Multimedia
                 </Typography.Title>
                 <div className="flex flex-col md:flex-row gap-3 w-full md:w-auto">
-                    <Button type="primary" onClick={() => setModalOpen(true)}>
-                        +
+                    <Button onClick={() => setModalOpen(true)} className="!bg-[#800020] !text-white !border-[#800020]">
+                        Subir
                     </Button>
                     <Select
                         defaultValue="Todas"
